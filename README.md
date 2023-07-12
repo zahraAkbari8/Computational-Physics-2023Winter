@@ -1,1 +1,1 @@
-# Computational-Physics-2023Winter
+I have gathered my answers to the course Computational Physics in this repo.# Computational-Physics-2023Winter
