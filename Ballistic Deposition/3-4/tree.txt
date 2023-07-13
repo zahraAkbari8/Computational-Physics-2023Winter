@@ -1,0 +1,4 @@
+start and end x of fitted lines are:[  201.         20740.66363262 50000.        ]
+the slopes fitted lines are:[1.06610130e+00 1.17979788e-08]
+y of break point is[198.99999853]
+

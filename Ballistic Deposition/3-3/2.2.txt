@@ -1,0 +1,7 @@
+start and end x of fitted lines are:[4.00440693 4.833831   5.69897   ]
+the slopes fitted lines are:[0.44304969 0.02469368]
+y of break point is[1.5490353]
+
+z = 0.024169155018296397
+beta = 0.4430496854252268
+alpha = 0.01070813652784976
