@@ -1,1 +1,1 @@
-I have gathered my answers to the course Computational Physics in this repo.# Computational-Physics-2023Winter
+I have gathered my answers to the course Computational Physics in this repo. Each folder is related to a specific topic containing the code, the relating reports and the resulting graphs and visualizations. Some folders may also contain animations.
